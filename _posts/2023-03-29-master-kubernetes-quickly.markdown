@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Master Kubernetes Quickly - Your 12-Week Guide to the Certified Application Developer Exam
+title: Master Kubernetes Quickly
+subtitle: test
 description: Master Kubernetes quickly with our comprehensive 12-week study guide designed for developers. Prepare for the CKAD exam by exploring container fundamentals, Kubernetes basics, advanced networking, and more through video lessons, practical exercises, and curated resources. Start learning today and boost your cloud-native development skills.
 categories: [Kubernetes]
 tags: [learn, k8s, ckad]
 ---
 
-# Master Kubernetes: A Comprehensive 12-Week Study Guide for the Certified Application Developer Exam
+# Your 12-Week Guide to the Kubernetes Certified Application Developer Exam
 
 ## Introduction
 
-Are you ready to take your container orchestration skills to the next level and become a Kubernetes Certified Application Developer (CKAD)? Look no further! We have crafted a comprehensive 12-week study guide to help you master Kubernetes and ace the CKAD exam. This guide is tailored for developers with experience in JavaScript and C#, and it covers a wide range of topics, from container fundamentals and Kubernetes basics to advanced networking and service meshes.
+Are you ready to take your container orchestration skills to the next level and become a Kubernetes Certified Application Developer (CKAD)? Look no further! We have crafted a comprehensive 12-week study guide to help you master Kubernetes and ace the CKAD exam. This guide is tailored for developers with experience in JavaScript or C#, and it covers a wide range of topics, from container fundamentals and Kubernetes basics to advanced networking and service meshes.
 
 Throughout this study guide, you'll find a mix of video lessons, practical exercises, and resources from popular platforms like A Cloud Guru and LinkedIn Learning, as well as free materials to enhance your understanding of Kubernetes. By following this guide, you will not only develop a strong foundation in container orchestration and Kubernetes but also gain the confidence to take on the CKAD exam and boost your career in the world of cloud-native development.
 
