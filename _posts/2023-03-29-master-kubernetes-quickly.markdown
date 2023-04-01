@@ -4,14 +4,9 @@ title: Master Kubernetes Quickly
 subtitle: test
 description: Master Kubernetes quickly with our comprehensive 12-week study guide designed for developers. Prepare for the CKAD exam by exploring container fundamentals, Kubernetes basics, advanced networking, and more through video lessons, practical exercises, and curated resources. Start learning today and boost your cloud-native development skills.
 categories: [Kubernetes]
-tags: [learn, k8s, ckad]
+tags: [study-guide, k8s, ckad]
 ---
----
-layout: post
-title:  "Master Kubernetes: An In-Depth 12-Week Study Guide for the Certified Application Developer Exam"
-date:   2023-03-29
-categories: kubernetes ckad study-guide
----
+
 
 ## Introduction
 
