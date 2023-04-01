@@ -47,7 +47,7 @@ By following this 12-week journey, you will not only develop a strong foundation
 - Understand Kubernetes architecture, components, and cluster communication
 - Learn about Kubernetes objects, such as Pods, Deployments, and Services
 - Resources:
-  1. [Kubernetes Fundamentals](https://acloudguru.com/course/kubernetes-fundamentals) (A Cloud Guru)
+  1. [Introduction to Kubernetes](https://acloudguru.com/course/introduction-to-kubernetes) (A Cloud Guru)
   2. [Learning Kubernetes](https://www.linkedin.com/learning/learning-kubernetes) (LinkedIn Learning)
 - Additional YouTube Resources:
   1. [Kubernetes Explained in 15 Minutes](https://www.youtube.com/watch?v=PH-2FfFD2PU)
