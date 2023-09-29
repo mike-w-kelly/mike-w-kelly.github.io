@@ -2,7 +2,7 @@
 layout: post
 title: K3S Raspberry Pi cluster with MetalLB
 subtitle: build a k3s cluster
-description: Add some text for SEO
+description: Setup a homelab kubernetes cluster using raspberry pi's, k3s and MetalLB
 categories: [Kubernetes]
 tags: [k3s, k8s, raspberry-pi, metallb]
 ---
