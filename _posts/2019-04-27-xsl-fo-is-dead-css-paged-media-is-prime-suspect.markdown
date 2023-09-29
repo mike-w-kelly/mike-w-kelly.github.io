@@ -14,7 +14,7 @@ There have been a number of reports that XSL-FO is a dead language and that CSS 
 As both a web and print developer this topic is of great interest to me, and as much as I have liked working with XSL-FO in the past I would love to be able to double down on a single language for both websites and printed media. So for this article I'm planning to see what the current state of affairs for both XSL-FO and CSS Page Media to see which is the best for building a new publishing solution.
 
 ## Update April 2019
-[New article on the current state of the XSL-FO eco-system](https://www.rockweb.co.uk/blog/2019/04/xsl-fo-is-alive-and-kicking/)
+[New article on the current state of the XSL-FO eco-system](/ebooks/2019/04/28/xsl-fo-is-alive-and-kicking.html)
 
 ## Why XSL-FO
 
@@ -237,4 +237,4 @@ If however you need to also support EPUB, CSS should figure in your plans, its e
 All in all it's an interesting time to be involved in print development.
 
 ## Looking for an XSL-FO or CSS Paged Media Consultant?
-If you have a project that you need some expert help on, I'm available to provide consultancy and development services. Drop me an email on [hello@rockweb.co.uk](mailto:hello@rockweb.co.uk) or tweet [@rockwebuk](https://twitter.com/rockwebuk)
+If you have a project that you need some expert help on, I'm available to provide consultancy and development services. Drop me an email on [hello@rockweb.co.uk](mailto:hello@rockweb.co.uk) or tweet [@thisismikekelly](https://twitter.com/thisismikekelly)
